@@ -1,5 +1,5 @@
 # Lesson Outline
-5:52
+5:53
 ## Overview and Why Version Control?
 
 ## Terminology/Acronym helpers
